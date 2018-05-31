@@ -91,7 +91,7 @@
                 imagePath: '//cdn.jsdelivr.net/jquery.jreject/1.0.2/images/'
             });      
         });
-        setEndPoint('//summerside.mallmaverick.com/api/v4/summerside/all.json');
+        setEndPoint('//summerside.mallmaverick.com/api/v4/twinpine/all.json');
     </script>
     <style>
         /*custom styles*/
