@@ -23,7 +23,7 @@
     </nav>
     <div class="page_banner" id="banner_container">
         <script id="banner_template" type="x-tmpl-mustache/text">
-            {{name}}
+            <h2>{{name}}</h2>
         </script>
     </div>
     <div class="inside_page_content">
