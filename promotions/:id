@@ -40,7 +40,7 @@
                             <p class="promo_header right_column_header">{{name}}</p>
                             <p class="directory_content promo_date">{{store_name}}<br>{{dates}}</p>
                             
-                            <a id="store_btn" style="display:none" href="/stores/{{store_detail_btn}}" class="btn btn-primary center-block btn-lg">View Store Details</a>
+                            {{#store_detail_btn}}<a id="store_btn" style="display:none" href="/stores/{{store_detail_btn}}" class="btn btn-primary center-block btn-lg">View Store Details</a>
                         </div>
                         {{{rich_description}}}
                     </div>
